@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Tasks</string>
+
+    <!-- Home -->
+    <string name="home_title">Today</string>
+    <string name="no_tasks_title">All clear! 🎉</string>
+    <string name="no_tasks_subtitle">No tasks for this day.\nTap + to add one.</string>
+    <string name="tasks_done_format">%1$d/%2$d tasks done</string>
+    <string name="overdue_format">%d overdue</string>
+
+    <!-- Task Form -->
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_title_hint">What needs to be done?</string>
+    <string name="task_description_hint">Add a note (optional)</string>
+    <string name="priority_label">Priority</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="category_label">Category</string>
+    <string name="due_date_label">Due Date</string>
+    <string name="reminder_label">Reminder</string>
+    <string name="no_due_date">No due date</string>
+    <string name="no_reminder">No reminder</string>
+    <string name="save_task">Save Task</string>
+    <string name="task_saved">Task saved!</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">Undo</string>
+
+    <!-- Categories -->
+    <string name="categories_title">Categories</string>
+    <string name="add_category">Add Category</string>
+    <string name="category_name_hint">Category name</string>
+    <string name="no_category">No category</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_categories">Categories</string>
+</resources>

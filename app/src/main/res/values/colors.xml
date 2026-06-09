@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ── Brand Pastels (Slightly deeper for better contrast) ── -->
+    <color name="pastel_pink">#FFB3C6</color>
+    <color name="pastel_pink_dark">#FF758F</color>
+    <color name="pastel_lavender">#C299FF</color>
+    <color name="pastel_mint">#99E6AD</color>
+    <color name="pastel_sky">#A3C9FF</color>
+    <color name="pastel_peach">#FFC68A</color>
+
+    <!-- ── Background (Cleaner and more professional) ── -->
+    <color name="bg_primary">#FDFDFD</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_surface">#F5F7FA</color>
+
+    <!-- ── Text (High contrast) ── -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- ── Priority ── -->
+    <color name="priority_high">#FF4D6D</color>
+    <color name="priority_medium">#FB8C00</color>
+    <color name="priority_low">#43A047</color>
+    <color name="overdue_red">#D32F2F</color>
+
+    <!-- ── System ── -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#EEEEEE</color>
+</resources>

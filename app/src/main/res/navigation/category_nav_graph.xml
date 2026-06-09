@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/category_nav_graph"
+    app:startDestination="@id/categoryListFragment">
+
+    <!-- ── Category List ── -->
+    <fragment
+        android:id="@+id/categoryListFragment"
+        android:name="com.dailytask.manager.ui.category.CategoryListFragment"
+        android:label="Categories"
+        tools:layout="@layout/fragment_category_list">
+
+        <action
+            android:id="@+id/action_categories_to_addCategory"
+            app:destination="@id/addCategoryFragment"
+            app:enterAnim="@anim/slide_up"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/slide_down" />
+    </fragment>
+
+    <!-- ── Add Category ── -->
+    <fragment
+        android:id="@+id/addCategoryFragment"
+        android:name="com.dailytask.manager.ui.category.AddCategoryFragment"
+        android:label="New Category"
+        tools:layout="@layout/fragment_add_category" />
+
+</navigation>
