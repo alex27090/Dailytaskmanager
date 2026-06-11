@@ -62,10 +62,10 @@ app/
 | Search | ✅ | SQL LIKE search by title + description (DAO ready) |
 | Swipe to Delete | ✅ | With Undo via Snackbar |
 | Boot persistence | ✅ | Reminders re-scheduled after reboot |
-| Hilt DI | ✅ | Full dependency injection |
+| Factory Pattern | ✅ | Manual dependency injection |
 | StateFlow / Coroutines | ✅ | Reactive UI throughout |
 | Unit Tests | ✅ | Repository + ViewModel tests |
-| Soft Pastel UI | ✅ | Nunito font, pink/lavender/mint palette |
+
 
 ---
 
