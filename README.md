@@ -1,4 +1,4 @@
-# 📋 Daily Task Manager — Android Foundation
+#  Daily Task Manager — Android Foundation
 
 A clean, well-structured Android task manager app built with modern Android development
 best practices. Soft pastel UI, MVVM architecture, Room persistence, and reminder support.
