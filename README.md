@@ -5,7 +5,7 @@ best practices. Soft pastel UI, MVVM architecture, Room persistence, and reminde
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```
 app/
@@ -49,7 +49,7 @@ app/
 
 ---
 
-## ✅ What's Built (Foundation Features)
+##  What's Built (Foundation Features)
 
 | Feature | Status | Details |
 |---|---|---|
@@ -69,7 +69,7 @@ app/
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone / Import
 Open the `DailyTaskManager` folder in Android Studio Hedgehog (2023.1.1) or newer.
@@ -93,7 +93,7 @@ Connect a device or emulator (API 26+) and hit **▶ Run**.
 
 ---
 
-## 📦 Tech Stack & Dependencies
+##  Tech Stack & Dependencies
 
 | Library | Version | Purpose |
 |---|---|---|
@@ -109,7 +109,7 @@ Connect a device or emulator (API 26+) and hit **▶ Run**.
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### `tasks`
 | Column | Type | Notes |
@@ -136,7 +136,7 @@ Connect a device or emulator (API 26+) and hit **▶ Run**.
 
 ---
 
-## 🔮 Recommended Next Features
+##  Recommended Next Features
 
 These are easy to add on top of this foundation:
 
@@ -153,7 +153,7 @@ These are easy to add on top of this foundation:
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 ```bash
 # Unit tests (no device needed)
@@ -165,7 +165,7 @@ These are easy to add on top of this foundation:
 
 ---
 
-## 📁 Key Files Quick Reference
+##  Key Files Quick Reference
 
 | File | What it does |
 |---|---|
