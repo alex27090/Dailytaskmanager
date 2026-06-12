@@ -51,20 +51,20 @@ app/
 
 ##  What's Built (Foundation Features)
 
-| Feature | Status | Details |
-|---|---|---|
-| Task CRUD | ✅ | Create, Read, Update, Delete with Room |
-| Priority Levels | ✅ | Low / Medium / High with color-coded stripe |
-| Categories | ✅ | Colored categories, 5 seeded on first launch |
-| Due Dates | ✅ | DatePicker, overdue detection |
-| Reminders | ✅ | AlarmManager exact alarm + notification |
-| Daily Schedule View | ✅ | Date navigator (prev/next) with completion summary |
-| Search | ✅ | SQL LIKE search by title + description (DAO ready) |
-| Swipe to Delete | ✅ | With Undo via Snackbar |
-| Boot persistence | ✅ | Reminders re-scheduled after reboot |
-| Factory Pattern | ✅ | Manual dependency injection |
-| StateFlow / Coroutines | ✅ | Reactive UI throughout |
-| Unit Tests | ✅ | Repository + ViewModel tests |
+| Feature |  Details |
+|---|---|
+| Task CRUD |  Create, Read, Update, Delete with Room |
+| Priority Levels |  Low / Medium / High with color-coded stripe |
+| Categories |  Colored categories, 5 seeded on first launch |
+| Due Dates |  DatePicker, overdue detection |
+| Reminders |  AlarmManager exact alarm + notification |
+| Daily Schedule View |  Date navigator (prev/next) with completion summary |
+| Search |  SQL LIKE search by title + description (DAO ready) |
+| Swipe to Delete |  With Undo via Snackbar |
+| Boot persistence |  Reminders re-scheduled after reboot |
+| Factory Pattern |  Manual dependency injection |
+| StateFlow / Coroutines |  Reactive UI throughout |
+| Unit Tests |  Repository + ViewModel tests |
 
 
 ---
